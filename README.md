@@ -130,12 +130,13 @@ pip install -r requirements.txt
 ```
 
 5. **Download the dataset**
+   - [Download the dataset](www.kaggle.com/api/v1/datasets/download/mexwell/steamgames)
    - The dataset `games.csv` should be placed in `data/raw/` directory
    - Due to file size, the dataset is in `.gitignore`
    - You can obtain the Steam games dataset from Kaggle or other public sources
    - Place your `games.csv` file in `data/raw/games.csv`
 
-6. **Launch Jupyter Notebook**
+7. **Launch Jupyter Notebook**
 ```bash
 jupyter notebook
 ```
@@ -338,12 +339,13 @@ pip install -r requirements.txt
 ```
 
 5. **Скачать датасет**
+   - [Скачать датасет](www.kaggle.com/api/v1/datasets/download/mexwell/steamgames)
    - Датасет `games.csv` должен быть размещен в директории `data/raw/`
    - Из-за размера файла датасет находится в `.gitignore`
    - Вы можете получить датасет игр Steam с Kaggle или других публичных источников
    - Поместите ваш файл `games.csv` в `data/raw/games.csv`
 
-6. **Запустить Jupyter Notebook**
+7. **Запустить Jupyter Notebook**
 ```bash
 jupyter notebook
 ```
