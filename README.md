@@ -130,7 +130,7 @@ pip install -r requirements.txt
 ```
 
 5. **Download the dataset**
-   - [Download the dataset](www.kaggle.com/api/v1/datasets/download/mexwell/steamgames)
+   - [Download the dataset](https://www.kaggle.com/api/v1/datasets/download/mexwell/steamgames)
    - The dataset `games.csv` should be placed in `data/raw/` directory
    - Due to file size, the dataset is in `.gitignore`
    - You can obtain the Steam games dataset from Kaggle or other public sources
@@ -339,7 +339,7 @@ pip install -r requirements.txt
 ```
 
 5. **Скачать датасет**
-   - [Скачать датасет](www.kaggle.com/api/v1/datasets/download/mexwell/steamgames)
+   - [Скачать датасет](https://www.kaggle.com/api/v1/datasets/download/mexwell/steamgames)
    - Датасет `games.csv` должен быть размещен в директории `data/raw/`
    - Из-за размера файла датасет находится в `.gitignore`
    - Вы можете получить датасет игр Steam с Kaggle или других публичных источников
